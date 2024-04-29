@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8def557-99e1-4b65-946c-6b5ca4a98b19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-practice-password.iml" afterDir="false" />
+    <list default="true" id="b8def557-99e1-4b65-946c-6b5ca4a98b19" name="Changes" comment="added new messages for new states">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OptionDialoguePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OptionDialoguePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OptionDialoguePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +49,55 @@
       <option name="presentableId" value="Default" />
       <updated>1714373130594</updated>
     </task>
+    <task id="LOCAL-00001" summary="added .gitignore">
+      <option name="closed" value="true" />
+      <created>1714375433261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714375433261</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1714375444424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714375444424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added .properties container for dialog messages">
+      <option name="closed" value="true" />
+      <created>1714375480420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714375480420</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1714376209678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714376209678</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added new messages for new states">
+      <option name="closed" value="true" />
+      <created>1714378397315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714378397315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added .gitignore" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added .properties container for dialog messages" />
+    <MESSAGE value="update .gitignore" />
+    <MESSAGE value="added new messages for new states" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new messages for new states" />
   </component>
 </project>
